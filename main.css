@@ -1,0 +1,23 @@
+img {
+    border-radius: 15px;
+}
+
+.flexit {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cropped {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}button a{
+    padding: 4px;
+    font-size: 1.5rem;
+    border-radius: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    color: yellowgreen;
+}
